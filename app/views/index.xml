@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="home" class="container">
+		<TableView id="newstable" />
+	</Window>
+</Alloy>

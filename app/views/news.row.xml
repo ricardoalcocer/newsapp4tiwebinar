@@ -1,0 +1,11 @@
+<Alloy>
+	<TableViewRow id="storyrow">
+		<View class="rowcontainer">
+			<ImageView id="storythumb"/>
+			<View class="textcontainer">
+				<Label id="storytitle">placeholder</Label>
+				<Label id="storysummary">placeholder</Label>
+			</View>
+		</View>
+	</TableViewRow>
+</Alloy>

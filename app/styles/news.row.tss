@@ -1,0 +1,35 @@
+".rowcontainer":{
+	 height:"90"
+}
+
+".textcontainer":{
+	layout: "vertical",
+	left:"90",
+	top:"5",
+	right: "5"
+}
+
+
+"#storythumb":{
+	left:"5",
+	top:"5",
+	width:"80",
+	height:"80"
+} 
+
+
+"#storytitle":{
+	width:Ti.UI.FILL,
+	color: "#000",
+	font:{
+		fontSize: "12"
+	}
+}
+
+"#storysummary":{
+	width:Ti.UI.FILL,
+	color: "#6D6D6D",
+	font:{
+		fontSize: "11"
+	}
+}
